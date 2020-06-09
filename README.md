@@ -1,9 +1,7 @@
-Encryption
+Encryption &nbsp;&nbsp;[![](https://jitpack.io/v/ir.alirezaivaz/encryption.svg)](https://jitpack.io/#ir.alirezaivaz/encryption)
 =====================
 
 Encryption is a simple way to encrypt and decrypt strings on Android and Java project.
-
-[![](https://jitpack.io/v/ir.alirezaivaz/encryption.svg)](https://jitpack.io/#ir.alirezaivaz/encryption)
 
 ## How to use ##
 

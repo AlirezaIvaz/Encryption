@@ -18,7 +18,7 @@ allprojects {
 2. Add the gradle dependency
 ```gradle
 dependencies {
-  implementation 'ir.alirezaivaz:encryption:1.0'
+  implementation 'ir.alirezaivaz:encryption:1.1'
 }
 ```
 
